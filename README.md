@@ -1,20 +1,16 @@
-# reservation_CATCH_HUST
-Committed to building a script for grabbing appointments from HUST and an easy-to-interact GUI interface.
-# HUST预约系统定时抢票工具 🎯
+# HUST Reservation System Auto-Booking Tool 🎯
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-开发中-yellow.svg)]()
+[![Status](https://img.shields.io/badge/Status-In%20Development-yellow.svg)]()
 
-一个专为华中科技大学预约系统设计的自动化抢票工具，支持定时预约、多账号管理、智能重试等功能。
+An automated booking tool specifically designed for Huazhong University of Science and Technology (HUST) reservation system, featuring scheduled booking, multi-account management, intelligent retry, and more.
 
-## ✨ 功能特性
+## ✨ Features
 
-- 🕐 **定时预约**: 支持精确到秒的定时预约功能
-- 👥 **多账号管理**: 支持多个账号同时抢票，提高成功率
-- 🔄 **智能重试**: 网络异常或服务器繁忙时自动重试
-- 📱 **实时通知**: 支持微信、邮件等多种通知方式
-- 🎯 **精准抢票**: 支持指定场次、座位等精确预约
-- 📊 **日志记录**: 详细的操作日志，便于问题排查
-- 🛡️ **安全防护**: 模拟真实用户行为，避免被系统检测
-
+- 🕐 **Scheduled Booking**: Precise timing down to the second for reservation booking
+- 👥 **Multi-Account Management**: Support multiple accounts for higher success rate
+- 🔄 **Intelligent Retry**: Automatic retry on network errors or server busy
+- 📱 **Real-time Notifications**: Support WeChat, email and other notification methods
+- 🎯 **Precise Booking**: Support specific venue, time slot and seat selection
+- 📊 **Detailed Logging**: Comprehensive operation logs for troubleshooting
